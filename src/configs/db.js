@@ -12,5 +12,5 @@ console.log(process.env.DIALECT);
 //     timestamps: true,
 //     underscored: true,
 //     underscoredAll: true,
-//   },
+//   }
 // };
